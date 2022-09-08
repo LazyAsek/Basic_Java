@@ -19,5 +19,6 @@ public static void main(String[] args) {
     else{
         System.out.println("Your numbers aren t equal");
     }
+    scanner.close();
 }  
 }
