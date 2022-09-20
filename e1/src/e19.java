@@ -1,4 +1,4 @@
-public class je19 {
+public class e19 {
     public static int zero(String a){
         int index=0;
         for(int i=0;i<a.length();i++){
