@@ -44,10 +44,10 @@ public class e36 {
     }
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        int num= s.nextInt();
-        int []t=toarr(num);
-        int cht[]=change(t);
-        int newnum=reverseprint(cht);
+      //  int num= s.nextInt();
+     //   int []t=toarr(num);
+      //  int cht[]=change(t);
+        //int newnum=reverseprint(cht);
     
         s.close(); 
     }
